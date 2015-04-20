@@ -48,5 +48,5 @@ class action(osv.osv):
 
 
 action()
-
+print "hola"
 # vim:expandtab:smartindent:tabstop=4:softtabstop=4:shiftwidth=4:
